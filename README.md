@@ -2,13 +2,13 @@
 Its a soft copy of all the source code of my assignments.
 
 
-Name - Debarghaya Mitra
-Class - X/A
-Roll - 17
-Admission No. - 118/17
-Subject - Computer Applications
-Subject Teacher - Sir Ravi Kumar Balmiki
-School - St. Joseph's Convent Higher Secondary School, Chittranjan
+Name - Debarghaya Mitra <br />
+Class - X/A <br />
+Roll - 17 <br />
+Admission No. - 118/17 <br />
+Subject - Computer Applications <br />
+Subject Teacher - Sir Ravi Kumar Balmiki <br />
+School - St. Joseph's Convent Higher Secondary School, Chittranjan <br />
 
 
 
