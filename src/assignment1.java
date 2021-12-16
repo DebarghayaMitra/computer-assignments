@@ -1,3 +1,15 @@
+/*
+Shasha Travels Pvt. Ltd. gives the following discount to its customers:
+Ticket amount               Discount
+Above Rs. 70000             18%
+Rs. 55001 to Rs. 70000      16%
+Rs. 35001 to Rs. 55000      12%
+Rs. 25001 to Rs. 35000      10%
+Less than Rs.25001          2%
+Write a program to input the name and ticket amount for the customer and calculate the discount amount and net amount to be paid. Display the output in the following format for each customer :
+Sl.NO.  Name    Ticket Charge      Discount    Net amount
+1.      ….      ….                 ….          ….
+ */
 
 //importing required libraries
 import java.util.Scanner;
@@ -61,3 +73,17 @@ class assignment1
     //main ends
 }
 //class ends
+
+
+
+/*
+
+Variable Description
+    Variable Type   Identifier          Description
+1.  String          name                To store the name of the customer
+2.  double          ticketCharge        To store the the price of the ticket
+3.  String          discountPercent     To store the discount recieved
+4.  double          netAmount           To store the discounted price
+5.  Scanner         keyboard            To access the Scanner input methods
+
+*/

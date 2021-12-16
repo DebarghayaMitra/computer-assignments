@@ -1,3 +1,19 @@
+/*
+Using switch statement , write a menu driven program for the following :
+i) To print the Floyd’s triangle :
+    1
+    2 3
+    4 5 6
+    7 8 9 10
+    11 12 13 14 15
+ii) To print the following pattern
+    5 4 3 2 1
+    5 4 3 2
+    5 4 3
+    5 4
+    5 
+ */
+
 //importing required libraries
 import java.util.Scanner;
 //class begins
@@ -67,3 +83,17 @@ class assignment4
     //main ends
 }
 //class ends
+
+
+
+/*
+
+Variable Description
+    Variable Type   Identifier      Description
+1.  Scanner         keyboard        To access the Scanner input methods
+2.  int             choice          To store the choice of user
+3.  int             k               To store the incrementation of number in floyd's triangle
+4.  int	            i               To control the outer loop in 1st and 2nd choice
+5.  int             j               To control the inner loop in 1st and 2nd choice
+
+*/

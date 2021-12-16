@@ -1,3 +1,13 @@
+/*
+Using switch statement, write a menu driven program for the following :
+i) To find and display the sum of the series given below :
+    S=x¹ - x² + x³ - x⁴ + x⁵ ……………………… -x²⁰
+    (where x=2)
+ii) To display the following series : 1 11 111 1111 11111
+For an incorrect option, an appropriate error message should be displayed.
+
+*/
+
 //importing required libraries
 import java.util.Scanner;
 import static java.lang.StrictMath.pow;
@@ -59,3 +69,19 @@ class assignment3
     //main ends
 }
 //class ends
+
+
+
+/*
+
+Variable Description
+    Variable Type   Identifier      Description
+1.  Scanner         keyboard        To access the Scanner input methods
+2.  int             choice          To store the choice of user
+3.  int             x               To store the value of x in first choice
+4.  int	            i               To control the outer loop in 1st choice
+5.  int             n               To control the number of characters in 1st choice
+6.  int	            i               To control the outer loop in 2nd choice
+7.  int             j               To control the inner loop in 2nd choice
+
+*/

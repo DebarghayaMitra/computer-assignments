@@ -1,3 +1,7 @@
+/*
+A program prints all the numbers from variable low to high where low < high. If low >= high then the program prints an error message “ Sorry, limits are not valid “.
+ */
+
 //importing required libraries
 import java.util.Scanner;
 //class starts
@@ -38,3 +42,15 @@ class assignment5
     //main ends
 }
 //class ends
+
+
+/*
+
+Variable Description
+    Variable Type   Identifier      Description
+1.  Scanner         keyboard        To access the Scanner input methods
+2.  int             low             To store the lower limit number 
+3.  int	            high            To store the upper limit number 
+4.  int             i               To control the loop
+
+*/
